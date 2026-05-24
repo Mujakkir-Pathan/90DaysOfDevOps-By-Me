@@ -64,9 +64,6 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
 ```
 
-📸 Screenshot Added:
-- docker-nginx.png
-
 ---
 
 # Part 3: Security Group Configuration
