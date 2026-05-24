@@ -21,7 +21,7 @@ ssh -i your-key.pem ubuntu@<your-instance-ip>
 ```
 
 📸 Screenshot Added:
-- ssh-connection.png
+![snapshot](screenshots/ssh-connection.png)
 
 ---
 
@@ -83,7 +83,7 @@ http://<your-instance-ip>
 Successfully accessed the Nginx welcome page.
 
 📸 Screenshot Added:
-- nginx-webpage.png
+![snapshot](screenshots/nginx-webpage.png)
 
 ---
 
