@@ -147,14 +147,3 @@ scp -i your-key.pem ubuntu@<your-instance-ip>:~/nginx-logs.txt .
 - How to access and export server logs.
 
 ---
-
-# Why This Matters for DevOps
-
-This task helped me understand real-world DevOps workflows such as:
-
-- Cloud server provisioning
-- Remote server administration
-- Web server deployment
-- Service management
-- Log monitoring and troubleshooting
-- Infrastructure security basics
