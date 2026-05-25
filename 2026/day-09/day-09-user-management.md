@@ -33,6 +33,7 @@ sudo adduser nairobi
   - default shell
   - user group
 - Also asks to set password interactively
+![snapshot](screenshots/adduser.png)
 
 ## Verification Commands
 
@@ -55,6 +56,7 @@ sudo addgroup project-team
 
 ## Explanation
 - `addgroup` → creates a new group
+![snapshot](screenshots/addgroup.png)
 
 ## Verification Command
 
@@ -100,6 +102,8 @@ sudo usermod -aG project-team tokyo
 - `usermod` → modifies existing user
 - `-a` → append to group
 - `-G` → specifies supplementary groups
+![snapshot](screenshots/users-added-to-group.png)
+  
 
 ## Verification Commands
 
@@ -144,6 +148,7 @@ Meaning:
 - Owner has full access
 - Group members have full access
 - Others can only view and access
+![snapshot](screenshots/change-permission.png)
 
 ## Test File Creation
 
