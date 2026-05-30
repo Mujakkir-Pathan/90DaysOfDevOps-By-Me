@@ -7,7 +7,7 @@
 - `script.sh` (shell script that prints "Hello DevOps")
 - `project/` (directory)
 
-## Permission Changes
+![snapshot]()
 
 ### devops.txt
 - Before: `-rw-r--r--`
