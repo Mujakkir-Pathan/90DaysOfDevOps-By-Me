@@ -7,12 +7,14 @@
 - `script.sh` (shell script that prints "Hello DevOps")
 - `project/` (directory)
 
-![snapshot]()
+![snapshot](screenshot/files-created.png)
 
 ### devops.txt
 - Before: `-rw-r--r--`
 - After: `-r--r--r--`
 - Change: Removed write permission for everyone (read-only file)
+
+![snapshot](screenshot/permission_change.png)
 
 ### notes.txt
 - Before: `-rw-r--r--`
