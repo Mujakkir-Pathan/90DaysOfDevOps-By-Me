@@ -100,7 +100,7 @@ A group is a collection of users who share access to files and directories accor
 
 ### Screenshot
 
-![Task 2 Screenshot](images/task2.png)
+![Task 2 Screenshot](screenshot/chown.png)
 
 ---
 
@@ -121,7 +121,7 @@ A group is a collection of users who share access to files and directories accor
 
 ### Screenshot
 
-![Task 3 Screenshot](images/task3.png)
+![Task 3 Screenshot](screenshot/file-group.png)
 
 ---
 
