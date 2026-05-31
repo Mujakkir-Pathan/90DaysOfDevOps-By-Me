@@ -216,7 +216,7 @@ heist-project/vault:
 
 ### Screenshot
 
-![Task 5 Screenshot](screenshot/hirachy.png)
+![Task 5 Screenshot](screenshot/files-r.png)
 
 ---
 
