@@ -167,7 +167,7 @@ drwxr-xr-x 2 berlin heist-team 4096 May 31 14:49 app-logs
 
 ### Screenshot
 
-![Task 4 Screenshot](screenshot/chown-owner-group.png)
+![Task 4 Screenshot](screenshot/apps-logs.png)
 
 ---
 
