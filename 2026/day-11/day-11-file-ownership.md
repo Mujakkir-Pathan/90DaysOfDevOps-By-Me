@@ -167,7 +167,7 @@ drwxr-xr-x 2 berlin heist-team 4096 May 31 14:49 app-logs
 
 ### Screenshot
 
-![Task 4 Screenshot](images/task4.png)
+![Task 4 Screenshot](screenshot/choen-owner.png)
 
 ---
 
@@ -216,7 +216,7 @@ heist-project/vault:
 
 ### Screenshot
 
-![Task 5 Screenshot](images/task5.png)
+![Task 5 Screenshot](screenshot/hirachy.png)
 
 ---
 
@@ -263,7 +263,7 @@ bank-heist/
 
 ### Screenshot
 
-![Task 6 Screenshot](images/task6.png)
+![Task 6 Screenshot](screenshot/final.png)
 
 ---
 
