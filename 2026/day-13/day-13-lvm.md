@@ -69,7 +69,6 @@ Volume group "devops-vg" successfully created.
 
 ### Screenshot
 
-Add screenshot of:
 ![task 3](screenshot/t3.png)
 
 
@@ -112,7 +111,6 @@ df -h /mnt/app-data
 
 ### Screenshot
 
-Add screenshot of:
 
 ![task 5](screenshot/t5.png)
 
