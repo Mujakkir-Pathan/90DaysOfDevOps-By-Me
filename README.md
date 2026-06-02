@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 90DaysOfDevOps
 ### Learn • Build • Practice • Become Job-Ready
 
