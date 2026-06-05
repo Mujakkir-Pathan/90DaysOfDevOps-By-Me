@@ -18,8 +18,8 @@ When I type google.com in a browser, the system first queries DNS to find the IP
 
 ![ss](screenshot/dig.png)
 
-* TTL: 101 seconds
-* A Record Example: 172.253.62.100
+* TTL: 200 seconds
+* A Record Example: 172.253.155.101
 
 ---
 
