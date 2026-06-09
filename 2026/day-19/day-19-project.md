@@ -81,13 +81,6 @@ This project helped me understand how Linux systems handle logs, backups, and sc
 * Executing Linux commands within scripts
 * Handling script exit statuses
 
-### Real-World Automation
-
-* Managing application logs efficiently
-* Creating compressed backups
-* Cleaning up old files automatically
-* Building reusable maintenance workflows
-
 ### Scheduling with Cron
 
 * Automating repetitive tasks
@@ -95,40 +88,10 @@ This project helped me understand how Linux systems handle logs, backups, and sc
 * Running maintenance jobs at scheduled times
 * Reducing manual server administration effort
 
----
 
-# Key DevOps Concepts Practiced
+## This project helped me connect shell scripting with real DevOps workflows It is not just about writing commands, but about building systems that run automatically, reliably, and with minimal manual intervention.
 
-* Shell Scripting
-* Linux Administration
-* Log Management
-* Backup & Recovery
-* Task Automation
-* Cron Jobs
-* File Compression
-* Production Maintenance
+## Through this project, I gained hands-on experience with Linux automation, backup strategies, log management, and scheduled maintenance—skills that are commonly used in production environments by DevOps and System Administration teams.
 
 ---
-
-
-# Final Thoughts
-
-This project helped me connect shell scripting with real DevOps workflows. It is not just about writing commands, but about building systems that run automatically, reliably, and with minimal manual intervention.
-
-Through this project, I gained hands-on experience with Linux automation, backup strategies, log management, and scheduled maintenance—skills that are commonly used in production environments by DevOps and System Administration teams.
-
----
-
-## Tech Stack
-
-* Bash Shell
-* Linux
-* Cron
-* Tar
-* Gzip
-* Find Utility
-
----
-
-### If you found this project useful, feel free to star the repository and connect with me for more DevOps learning projects.
 
