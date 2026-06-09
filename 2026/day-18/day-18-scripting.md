@@ -14,7 +14,7 @@ Today I learned how to write reusable Bash scripts using functions, work with lo
 
 ### Output
 
-[task 1](screenshots/task1.png)
+![task 1](screenshots/task1.png)
 
 ### What I Learned
 
@@ -32,7 +32,7 @@ Today I learned how to write reusable Bash scripts using functions, work with lo
 
 ### Output
 
-[task 2](screenshots/task2.png)
+![task 2](screenshots/task2.png)
 
 
 ### What I Learned
@@ -51,7 +51,7 @@ Today I learned how to write reusable Bash scripts using functions, work with lo
 
 ### Output
 
-[task 3](screenshots/task3.png)
+![task 3](screenshots/task3.png)
 
 
 ### Explanation
@@ -82,7 +82,7 @@ Strict mode helps catch errors early and prevents scripts from continuing with u
 
 ### Output
 
-[task 4](screenshots/task4.png)
+![task 4](screenshots/task4.png)
 
 i
 ### What I Learned
@@ -101,7 +101,7 @@ i
 
 ### Output
 
-[task 5](screenshots/task5.png)
+![task 5](screenshots/task5.png)
 
 
 ### Features
