@@ -1,0 +1,21 @@
+===================================
+       Log Analysis Report
+===================================
+
+Date of Analysis : Tue Jun  9 17:15:04 UTC 2026
+Log File         : app.log
+Total Lines      : 40
+Total Error Count: 10
+
+===== Top 5 Error Messages =====
+     10 
+
+===== Critical Events =====
+Line 10: 2026-06-09 14:49:00 [CRITICAL]  - 15692
+Line 12: 2026-06-09 14:49:00 [CRITICAL]  - 31944
+Line 14: 2026-06-09 14:49:00 [CRITICAL]  - 2641
+Line 25: 2026-06-09 14:49:00 [CRITICAL]  - 12258
+Line 27: 2026-06-09 14:49:00 [CRITICAL]  - 20394
+Line 36: 2026-06-09 14:49:00 [CRITICAL]  - 20863
+Line 39: 2026-06-09 14:49:00 [CRITICAL]  - 19443
+
