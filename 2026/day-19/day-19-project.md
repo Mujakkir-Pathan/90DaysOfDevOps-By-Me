@@ -89,9 +89,9 @@ This project helped me understand how Linux systems handle logs, backups, and sc
 * Reducing manual server administration effort
 
 
-## This project helped me connect shell scripting with real DevOps workflows It is not just about writing commands, but about building systems that run automatically, reliably, and with minimal manual intervention.
+This project helped me connect shell scripting with real DevOps workflows It is not just about writing commands, but about building systems that run automatically, reliably, and with minimal manual intervention.
 
-## Through this project, I gained hands-on experience with Linux automation, backup strategies, log management, and scheduled maintenance—skills that are commonly used in production environments by DevOps and System Administration teams.
+Through this project, I gained hands-on experience with Linux automation, backup strategies, log management, and scheduled maintenance—skills that are commonly used in production environments by DevOps and System Administration teams.
 
 ---
 
