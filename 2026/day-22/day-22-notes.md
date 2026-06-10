@@ -100,25 +100,6 @@ Add screenshot here:
 
 ![Task 5 Screenshot](screenshots/task5.png)
 
----
-
-## Task 6: Understand the Git Workflow
-
-### What I Did
-
-Created `day-22-notes.md` and answered the following questions:
-
-* Difference between `git add` and `git commit`
-* Purpose of the staging area
-* Information shown by `git log`
-* Purpose of the `.git` directory
-* Difference between working directory, staging area, and repository
-
-### Screenshot
-
-Add screenshot here:
-
-![Task 6 Screenshot](images/task6.png)
 
 ---
 
