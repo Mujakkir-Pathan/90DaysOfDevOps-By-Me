@@ -1,4 +1,4 @@
-# 🐚 Shell Scripting Cheat Sheet
+# Shell Scripting Cheat Sheet
 
 A practical quick-reference guide for Bash scripting and DevOps automation.
 
