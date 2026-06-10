@@ -12,7 +12,7 @@
 
 Add screenshot here:
 
-![Task 1 Screenshot](Screenshot/task1.png)
+![Task 1 Screenshot](Screenshots/task1.png)
 
 ---
 
@@ -29,7 +29,7 @@ Add screenshot here:
 
 Add screenshot here:
 
-![Task 2 Screenshot](Screenshot/task2.png)
+![Task 2 Screenshot](Screenshots/task2.png)
 
 ---
 
@@ -69,7 +69,7 @@ Add initial Git commands reference
 
 Add screenshot here:
 
-![Task 5 Screenshot](images/task5.png)
+![Task 5 Screenshot](screenshots/task5.png)
 
 ---
 
