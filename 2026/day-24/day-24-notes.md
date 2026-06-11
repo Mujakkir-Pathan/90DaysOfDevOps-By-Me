@@ -87,8 +87,6 @@ Today I practiced advanced Git workflows that are commonly used in real DevOps a
 
 ## 5. Git Cherry-pick
 
-![snapshot](screenshots/task5.png)
-
 ### What is Cherry-pick?
 - Applies a specific commit from one branch to another.
 
