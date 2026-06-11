@@ -239,4 +239,50 @@ Example:
 git fetch
 ```
 
+---
 
+# Advanced Git Commands (Day 24)
+
+## Merge
+git merge <branch>
+- Combines changes from another branch into current branch.
+
+## Fast-forward Merge
+- Happens when no new commits exist on main branch.
+- Git just moves pointer forward.
+
+## Merge Commit
+- Created when branches diverge.
+- Preserves full branch history.
+
+## Rebase
+git rebase <branch>
+- Rewrites commit history on top of another branch.
+- Creates linear history.
+
+## Stash
+git stash push -m "message"
+- Saves uncommitted changes temporarily.
+
+git stash list
+- Shows all stashed changes.
+
+git stash apply
+- Restores stash but keeps it.
+
+git stash pop
+- Restores stash and removes it.
+
+## Squash Merge
+git merge --squash <branch>
+- Combines all commits into one single commit.
+
+## Cherry-pick
+git cherry-pick <commit-id>
+- Applies a specific commit from another branch.
+
+## Conflict Resolution
+- Happens when same lines are modified in multiple branches.
+- Must manually fix files and run:
+git add <file>
+git commit
