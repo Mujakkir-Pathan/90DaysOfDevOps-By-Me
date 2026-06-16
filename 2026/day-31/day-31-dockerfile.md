@@ -3,10 +3,10 @@
 ## Task 1: Your First Dockerfile
 
 **Screenshot:**
-![image](screenshots/task1.1.png")
+![image](screenshots/task1.1.png)
 
 **Screenshot:**
-![image](screenshots/task1.3.png")
+![image](screenshots/task1.3.png)
 
 
 ---
@@ -15,7 +15,7 @@
 
 
 **Screenshot:**
-![image](screenshots/task2.png")
+![image](screenshots/task2.png)
 
 ---
 
@@ -38,28 +38,28 @@
 ### Verification
 
 **Screenshot:**
-![image](screenshots/task3.1.png")
+![image](screenshots/task3.1.png)
 
 **Screenshot:** 
-![image](screenshots/task3.2.png")
-![image](screenshots/task3.3.png")
+![image](screenshots/task3.2.png)
+![image](screenshots/task3.3.png)
 
 ---
 
 ## Task 4: Build a Simple Web App Image
 
 **Screenshot:**
-![image](screenshots/task4.png")
+![image](screenshots/task4.png)
 
 **Screenshot:** 
-![image](screenshots/task4.2.png")
+![image](screenshots/task4.2.png)
 
 ---
 
 ## Task 5: .dockerignore
 
 **Screenshot:** 
-![image](screenshots/task5.png")
+![image](screenshots/task5.png)
 
 ---
 
@@ -88,7 +88,7 @@ Frequently changing instructions should be placed near the bottom of the Dockerf
 ### Verification
 
 **Screenshot:** Rebuild output showing cached layers
-![image](screenshots/task5.png")
+![image](screenshots/task5.png)
 
 
 ---
