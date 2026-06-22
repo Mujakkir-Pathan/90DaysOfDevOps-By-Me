@@ -13,11 +13,16 @@
 ## Task 2: First Compose File
 
 * Created `compose-basics` directory.
+[Docker Compose File](yyaml_Files/before.yml)
+
 * Created `docker-compose.yml`.
+
 * Started Nginx container using Docker Compose.
 ![Screenshot](screenshots/task2.1.png)
+
 * Accessed Nginx page in browser.
 ![Screenshot](screenshots/task2.2.png) 
+
 * Stopped and removed the container. 
 
 ---
@@ -78,6 +83,9 @@ Practiced the following commands:
 ![Screenshot](screenshots/task5.1.png)
 
 * Referenced variables using `${VARIABLE_NAME}` syntax.
+[Docker Compose File](yyaml_Files/after.yml)
+
+
 * Verified variables were loaded successfully.
 ![Screenshot](screenshots/task5.3.png)
 
