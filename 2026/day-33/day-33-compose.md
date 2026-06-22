@@ -13,7 +13,8 @@
 ## Task 2: First Compose File
 
 * Created `compose-basics` directory.
-[Docker Compose File](yyaml_Files/before.yml)
+
+[Docker Compose File](yaml_Files/before.yml)
 
 * Created `docker-compose.yml`.
 
@@ -83,7 +84,8 @@ Practiced the following commands:
 ![Screenshot](screenshots/task5.1.png)
 
 * Referenced variables using `${VARIABLE_NAME}` syntax.
-[Docker Compose File](yyaml_Files/after.yml)
+
+[Docker Compose File](yaml_Files/after.yml)
 
 
 * Verified variables were loaded successfully.
