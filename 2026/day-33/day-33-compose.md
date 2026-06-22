@@ -15,10 +15,10 @@
 * Created `compose-basics` directory.
 * Created `docker-compose.yml`.
 * Started Nginx container using Docker Compose.
+![Screenshot](screenshots/task2.1.png)
 * Accessed Nginx page in browser.
-![Screenshot](screenshots/task2.1.png) 
-* Stopped and removed the container.
 ![Screenshot](screenshots/task2.2.png) 
+* Stopped and removed the container. 
 
 ---
 
@@ -33,7 +33,7 @@
 * Verified data persistence after restart.
 ![Screenshot](screenshots/task3.png) 
 ![Screenshot](screenshots/task3.1.png) 
-![Screenshot](screenshots/task3.4png) 
+![Screenshot](screenshots/task3.4.png) 
 
 
 ---
@@ -75,7 +75,7 @@ Practiced the following commands:
 
 * Added environment variables directly in `docker-compose.yml`.
 * Created `.env` file.
-![Screenshot](screenshots/task5.png)
+![Screenshot](screenshots/task5.1.png)
 
 * Referenced variables using `${VARIABLE_NAME}` syntax.
 * Verified variables were loaded successfully.
