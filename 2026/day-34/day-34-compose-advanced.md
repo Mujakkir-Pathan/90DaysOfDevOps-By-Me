@@ -95,7 +95,7 @@ build: ./app
 
 ## Rebuild After Code Change
 
-![snapshot](screenshots/task4)
+![snapshot](screenshots/task4.png)
 
 This rebuilds the image and recreates containers in a single command.
 
