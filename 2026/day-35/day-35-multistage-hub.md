@@ -10,9 +10,9 @@ Learn how multi-stage Docker builds help create smaller, cleaner, and more secur
 
 I used my Flask application from the previous day and created a single-stage Docker image.
 
-![snapshot](screenshots/task1.png)
+[project folder](ProjectApp/app)
 
-[Dockerfile](ProjectApp/app/Dockerfile)
+![snapshot](screenshots/task1.png)
 
 ---
 
@@ -21,6 +21,8 @@ I used my Flask application from the previous day and created a single-stage Doc
 I rewrote the Dockerfile using a multi-stage build.
 
 ![snapshot](screenshots/task2.png)
+
+[Dockerfile](ProjectApp/app/Dockerfile)
 
 ### Why is the multi-stage image smaller?
 
@@ -70,6 +72,8 @@ Implemented multi-stage builds
 Reduced final image size
 
 Ran application as a non-root user
+
+[project folder](2nd)
 
 [Dockerfile](2nd/Dockerfile)
 
