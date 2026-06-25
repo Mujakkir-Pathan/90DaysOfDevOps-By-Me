@@ -1,0 +1,44 @@
+services:
+  web:
+    build: ./app
+    ports:
+      - "80:5000"
+    networks:
+      - app-network 
+    depends_on:
+      db:
+        condition: service_healthy 
+      redis:
+        condition: service_healthy
+  db:
+    image: postgres:16
+    networks:
+      - app-network
+    volumes: 
+      - db-data:/var/lib/postgresql/data  
+    restart: always
+    environment:
+      POSTGRES_USER: mujju
+      POSTGRES_PASSWORD: mujju123
+      POSTGRES_DB: my_database
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "postgres"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+    
+  redis:
+    image: redis:7.4-alpine
+    networks:
+      - app-network
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+  
+networks:
+  app-network:
+volumes:
+  db-data:
