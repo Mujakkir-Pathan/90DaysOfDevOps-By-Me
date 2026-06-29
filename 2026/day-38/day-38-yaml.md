@@ -54,12 +54,12 @@ description: >
 ```
 
 ### Concepts Covered
-
-| Block Style | Name | Purpose |
-|-------------|------|---------|
-| `|` | Literal Block Scalar | Preserves line breaks exactly as written. Ideal for shell scripts, configuration files, and multiline text. |
-| `>` | Folded Block Scalar | Converts line breaks into spaces, producing a single wrapped line. Useful for long descriptions and documentation. |
-       
+      
+| Block Style | Purpose |
+|-------------|---------|
+| `|`         | Preserves line breaks exactly as written. Ideal for shell scripts and configuration files. |
+| `>`         | Folds multiple lines into a single line. Useful for long descriptions and documentation. |
+ 
 ---
 
 # YAML Validation
