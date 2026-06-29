@@ -1,0 +1,24 @@
+server:
+  name: nginx
+  ip: 192.168.1.10
+  port: 8080
+
+
+database:
+  host: localhost
+  name: postgres
+  credentials:
+    user: admin
+    password: password123
+
+
+startup_script: |
+  echo "Starting nginx..."
+  sudo systemctl start nginx
+  echo "Done."
+
+
+description: >
+  This server is used
+  for learning YAML
+  and DevOps concepts.
