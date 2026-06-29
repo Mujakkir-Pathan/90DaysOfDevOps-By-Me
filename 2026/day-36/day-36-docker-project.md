@@ -53,11 +53,17 @@ Created a `docker-compose.yml` with:
 * Pushed images to Docker Hub.
 * Added project documentation in `README.md`.
 
+[https://hub.docker.com/repository/docker/mujakkirpathan/devboard-frontend/general](https://hub.docker.com/repository/docker/mujakkirpathan/devboard-frontend/general)
+
+[https://hub.docker.com/repository/docker/mujakkirpathan/devboard-backend/general](https://hub.docker.com/repository/docker/mujakkirpathan/devboard-backend/general)
+
 ###  Task 5: Test
 
 * Removed local containers and images.
 * Pulled images from Docker Hub.
 * Verified the application works using Docker Compose.
+
+### Done
 
 ## Files Created
 
@@ -69,7 +75,7 @@ Created a `docker-compose.yml` with:
 * `README.md`
 * `day-36-docker-project.md`
 
-[here is the recordind](recordings/rec)
+[here is the recordind](recording/rec.mp4)
 
 ## Outcome
 
